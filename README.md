@@ -7,7 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 2. npm start
 
 ##Backend 
-1. node server.js
+1. cd server
+2. node server.js
 -------------------------------------------------------------------------
 ## Available Scripts
 
