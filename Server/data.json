@@ -1,0 +1,12 @@
+[
+    { "id": "1001", "img": "./images/1.jpg", "name": "Jerry steve invited to like like lamborghini", "read": "1001", "date": "Notification referred from today 12:40 PM" },
+    { "id": "1002", "img": "./images/2.png", "name": "Smith accepted your friend request", "read": "1001", "date": "Notification referred from today 10:40 PM"  },
+    { "id": "1003", "img": "./images/3.webp", "name": "You have a new friend suggestion", "read": "1001", "date": "Notification referred from yesterday 11:00 AM" },
+    { "id": "1004", "img": "./images/4.webp", "name": "Kristen hanby posted a new video", "read": "1001", "date": "Notification referred week 12:40 PM"  },
+    { "id": "1005", "img": "./images/5.jpg", "name": "Shuila asked to join a group", "read": "1002", "date": "Notification referred week"  },
+    { "id": "1006", "img": "./images/6.jpg", "name": "Mark commented on your photo", "read": "1001", "date": "Notification referred 2 weeks ago"  },
+    { "id": "1007", "img": "./images/8.jpg", "name": "See the latest activity on Elon mask", "read": "1002", "date": "Notification referred 2 weeks ago"  },
+    { "id": "1008", "img": "./images/9.png", "name": "Danye accepted your friend request", "read": "1002", "date": "Notification referred 2 weeks ago"  },
+    { "id": "1009", "img": "./images/10.png", "name": "Elon mask on live activity", "read": "1002", "date": "Notification referred 3 weeks ago"  },
+    { "id": "1010", "img": "./images/1.jpg", "name": "Celebrating 10 years on friendship", "read": "1002", "date": "Notification referred 1 month ago"  }
+]
